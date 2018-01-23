@@ -13,7 +13,7 @@ import com.opensymphony.xwork2.ActionSupport;
 
 public class UploadFile extends ActionSupport {
 	private static final long serialVersionUID = 1L;
-
+   
 	private String result;
 	private String uploadContentType;
 	private String uploadFileName;
